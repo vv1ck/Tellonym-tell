@@ -9,6 +9,8 @@ How to use it
 - install for linux:
 <!--START_SECTION:waka-->
 ```
-cd Brute-force-Tiktok
+
+sudo git clone
+
 ```
 <!--END_SECTION:waka-->
