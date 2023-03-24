@@ -23,10 +23,9 @@ cd vv1ck/Tellonym-tell
 ```
 <!--END_SECTION:waka-->
 
-```
-
 <!--START_SECTION:waka-->
 
+```
 python3 tellonym-tell.py
 
 ```
