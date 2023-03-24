@@ -32,3 +32,4 @@ python3 tellonym-tell.py
 
 <!--END_SECTION:waka-->
 ---------------
+By JOKER | <a class="" href="https://www.instagram.com/221298">Instagram 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
